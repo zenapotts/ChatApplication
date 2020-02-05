@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zenap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zenap\\.nuget\\packages"
+    ]
+  }
+}
