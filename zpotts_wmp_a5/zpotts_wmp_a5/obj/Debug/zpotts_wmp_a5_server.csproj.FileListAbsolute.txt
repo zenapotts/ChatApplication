@@ -1,0 +1,6 @@
+C:\Users\zenap\source\repos\zpotts_wmp_a5\zpotts_wmp_a5\bin\Debug\zpotts_wmp_a5.exe.config
+C:\Users\zenap\source\repos\zpotts_wmp_a5\zpotts_wmp_a5\bin\Debug\zpotts_wmp_a5.exe
+C:\Users\zenap\source\repos\zpotts_wmp_a5\zpotts_wmp_a5\bin\Debug\zpotts_wmp_a5.pdb
+C:\Users\zenap\source\repos\zpotts_wmp_a5\zpotts_wmp_a5\obj\Debug\zpotts_wmp_a5_server.csprojAssemblyReference.cache
+C:\Users\zenap\source\repos\zpotts_wmp_a5\zpotts_wmp_a5\obj\Debug\zpotts_wmp_a5.exe
+C:\Users\zenap\source\repos\zpotts_wmp_a5\zpotts_wmp_a5\obj\Debug\zpotts_wmp_a5.pdb

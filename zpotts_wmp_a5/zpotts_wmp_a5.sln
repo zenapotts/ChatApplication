@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zpotts_wmp_a5_server", "zpotts_wmp_a5\zpotts_wmp_a5_server.csproj", "{AA10DC40-6864-4A4E-AB8E-6DE49A4D9D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zpotts_wmp_a5_client", "zpotts_wmp_a5_client\zpotts_wmp_a5_client.csproj", "{3C423F62-220A-434A-9307-B6CF3F664634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA10DC40-6864-4A4E-AB8E-6DE49A4D9D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA10DC40-6864-4A4E-AB8E-6DE49A4D9D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA10DC40-6864-4A4E-AB8E-6DE49A4D9D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA10DC40-6864-4A4E-AB8E-6DE49A4D9D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C423F62-220A-434A-9307-B6CF3F664634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C423F62-220A-434A-9307-B6CF3F664634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C423F62-220A-434A-9307-B6CF3F664634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C423F62-220A-434A-9307-B6CF3F664634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {309F1665-DA37-41C6-86A6-33534D60057C}
+	EndGlobalSection
+EndGlobal
